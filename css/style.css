@@ -226,6 +226,19 @@ body {
   }
 }
 
+@media (max-width: 400px) {
+  .menu li a {
+    margin-left: -21px;
+    font-size: 13px;
+  }
+  .CT {
+    display: none;
+  }
+  .dados li {
+    margin-left: -200px;
+  }
+}
+
 .js [data-tab="content"] section {
   display: none;
 }
