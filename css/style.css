@@ -226,7 +226,7 @@ body {
   }
 }
 
-@media (max-width: 400px) {
+@media (max-width: 450px) {
   .menu li a {
     margin-left: -21px;
     font-size: 13px;
